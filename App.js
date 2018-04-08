@@ -6,6 +6,8 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>The app is working</Text>
+        <Text>The app is working well.</Text>
+        <Text>The app is working amazingly well. </Text>
       </View>
     );
   }
